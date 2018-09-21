@@ -1,5 +1,5 @@
 _repo: The-Yale-Cup_54996
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Copeland, Charles
@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '3033'
     url: http://www.gutenberg.org/2009/agents/3033
     wikipedia: http://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 54996-h/images/cover.jpg
 creator:
   author:
     agent_name: Dudley, Albertus True
     gutenberg_agent_id: '48144'
     url: http://www.gutenberg.org/2009/agents/48144
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54996#The-Yale-Cup
 gutenberg_issued: '2017-06-28'
 gutenberg_type: Text
 identifiers:
