@@ -1,0 +1,28 @@
+_repo: The-Yale-Cup_54996
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Copeland, Charles
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '3033'
+    url: http://www.gutenberg.org/2009/agents/3033
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+creator:
+  author:
+    agent_name: Dudley, Albertus True
+    gutenberg_agent_id: '48144'
+    url: http://www.gutenberg.org/2009/agents/48144
+description: ''
+gutenberg_issued: '2017-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Yale Cup
+url: http://www.gutenberg.org/ebooks/54996
